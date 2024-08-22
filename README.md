@@ -7,7 +7,7 @@ The privacy market in the web3 actively lacks diversity. Women around the world 
 
 We want to kick off the educational track to bring more women into privacy x the web3: from developers to entrepreneurs. So the industry will be more diverse, open & inclusive. 
 
-[curator](https://x.com/annbrody7): Ann Brody
+Curators: [Ann Brody](https://x.com/annbrody7) and  [Yana Matrosova ](https://x.com/yana_tnfl)
 
 ## Execution plan
 

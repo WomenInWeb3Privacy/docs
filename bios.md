@@ -5,3 +5,4 @@
 - [Marianna Charalambous](https://github.com/MariannaCh08) - Project Manager / Grants Manager 
 - [Chloe Zhu](https://github.com/Chloezhu010) - Tech content & community lead at ETHPanda
 - [Steph Orpilla](https://github.com/oceans404) - Web3 developer and Developer Relations Lead at Nillion Network
+- [Rocio Gonzalez](https://github.com/ChioGT) - Freelance Software developer, Web3, Privacy, Shinobi at Nym Technologies SA 

@@ -7,3 +7,4 @@
 - [Steph Orpilla](https://github.com/oceans404) - Web3 developer and Developer Relations Lead at Nillion Network
 - [Rocio Gonzalez](https://github.com/ChioGT) - Freelance Software developer, Web3, Privacy, Shinobi at Nym Technologies SA
 - [Cat McGee](https://github.com/catmcgee) - Software Developer & DevRel Engineer @ Aztec Labs
+- [Lucila](https://www.lucilapastore.xyz/) - FE Dev & Community Builder, from 🇦🇷 
